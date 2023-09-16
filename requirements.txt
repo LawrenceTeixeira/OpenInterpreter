@@ -1,0 +1,63 @@
+pandas
+numpy
+scipy
+xarray
+#Machine Learning:
+scikit-learn
+xgboost
+keras
+torch
+#Natural Language Processing:
+nltk
+spacy
+textblob
+gensim
+#Data Visualization:
+matplotlib
+seaborn
+plotly
+bokeh
+#Web Scraping and Network:
+requests
+urllib3
+aiohttp
+beautifulsoup4
+#Deep Learning:
+keras
+torch
+theano
+#Image Processing:
+pillow
+imageio
+opencv-python
+scikit-image
+#Audio Processing:
+librosa
+pyaudio
+soundfile
+#File Format:
+openpyxl
+xlrd
+pyPDF2
+python-docx
+#Database:
+sqlalchemy
+psycopg2
+mysql-connector-python
+#Web Development:
+flask
+django
+tornado
+quart
+#Others:
+pytest
+joblib
+pytz
+pyyaml
+
+python-docx
+pdfkit
+wkhtmltopdf
+pandoc 
+pdfplumber  
+reportlab 
